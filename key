@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am mrmema on github.
+  * I am mrmema (https://keybase.io/mrmema) on keybase.
+  * I have a public key ASB42e0JamiVjbzJZycuQ1cTZidXkFVid57L3X1Yb1NlGgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012078d9ed096a68958dbcc967272e435713662757905562779ecbdd7d586f53651a0a",
+      "host": "keybase.io",
+      "kid": "012078d9ed096a68958dbcc967272e435713662757905562779ecbdd7d586f53651a0a",
+      "uid": "ce29198f06ad1049682d0a89c1219e19",
+      "username": "mrmema"
+    },
+    "merkle_root": {
+      "ctime": 1560755907,
+      "hash": "9e43ec5e5d986b590ed6301f51fd5d3b89c952004b48add58c9ca7d67746853d66614ce6a72551e665b760c53ba24b2d959ac0c0052b24d456ca90b5a10fb6ab",
+      "hash_meta": "77c168d8a55def14188291704cfda42f444008ec0f444d36b8305462dfa43174",
+      "seqno": 5583503
+    },
+    "service": {
+      "entropy": "GFhXWnV/8xYpO2YaNYdaG8Va",
+      "name": "github",
+      "username": "mrmema"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1560755947,
+  "expire_in": 504576000,
+  "prev": "ca430e7aeb0d838a7718dcb66a87f1b410bafa823d6533435d169380bb8ebd74",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASB42e0JamiVjbzJZycuQ1cTZidXkFVid57L3X1Yb1NlGgo](https://keybase.io/mrmema), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeNntCWpolY28yWcnLkNXE2YnV5BVYneey919WG9TZRoKp3BheWxvYWTESpcCBcQgykMOeusNg4p3GNy2aofxtBC6+oI9ZTNDXRaTgLuOvXTEIGLSQ2edpI7EymFEMHS1yNCD4XbhOJOm88cwKvPeLOFqAgHCo3NpZ8RAbe3YV/+IgONX2MGyJhI6aqBS8Ab8it5zNRyrk0XB4DsJM6nt+t6P4gRqimkfl6Pj+tDShjnxbPqWey78W9o/BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMxYqiZ0fRqvznyFzxvBOBVoz9cMeQBUe5EnSGbH4w4So3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/mrmema
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id mrmema
+```
